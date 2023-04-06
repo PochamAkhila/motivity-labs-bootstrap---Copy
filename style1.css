@@ -1,0 +1,11 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+@media screen and (max-width:500px){
+    .logo{
+        width:auto;
+    }
+}
+.font-bold{
+    font-weight: bold;
+}
